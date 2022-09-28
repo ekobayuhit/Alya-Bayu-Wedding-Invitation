@@ -10,7 +10,7 @@
 
 <template>
   <audio ref="audioEl" autoplay>
-    <source src="@/assets/audio/I Can't Seem To Let You Go (128 kbps).mp3" type="audio/mp3">
+    <source src="@/assets/audio/ICantSeemToLetYouGo.mp3" type="audio/mp3">
   </audio>
   <section class="fixed bottom-24 pl-2">
     <button class="button" @click="control">
