@@ -62,7 +62,7 @@ input, textarea, select, option {
       <!--MessagesBox :messages="messages" -->
       <!-- Frames -->
       <div class="w-full text-center pb-12 mt-12">
-        <p class="text-sm text-amber-600 font-medium">Diundang &copy; 2022</p>
+        <p class="text-sm text-amber-600 font-medium">Alya&Bayu &copy; 2022</p>
       </div>
     </section>
   </section>
