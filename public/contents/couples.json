@@ -7,7 +7,6 @@
 				{ "icon": "fab fa-linkedin", "link": "https://www.linkedin.com/in/bayu-eko-saputro-a949b3117/" }
 			],
 			"parents": ["Bambang Sasongko", "Yuni Indriyanti"],
-			"thumb": "/couples/bayu.jpeg",
 			"address": "Desa Cengkawakrejo RT 001/ RW 002 Kec. Banyuurip Kab. Purworejo"
 		},
 		{
@@ -17,7 +16,6 @@
 				{ "icon": "fab fa-linkedin", "link": "https://id.linkedin.com/in/aliyatul-aeni-884771100" }
 			],
 			"parents": ["Mustafid(Alm)", "Sa'ada"],
-			"thumb": "/couples/aliya.jpeg",
 			"address": "Desa Panguragan Blok.3 RT 11/ RW 05 Kec.Panguragan, Kab.Cirebon"
 		}
 	]

@@ -2,28 +2,42 @@
   <section class="w-full bg-cover h-screen">
     <section class="container-section h-screen grid content-end">
       <div>
-        <img src="@/assets/images/wedding-1.jpeg" class="w-full" alt="">
+        <img src="@/assets/images/wedding-1.jpg" class="w-full" alt="">
       </div>
     </section>
   </section>
   <section class="w-full bg-cover h-screen">
     <section class="container-section h-screen grid content-end">
       <div>
-        <img src="@/assets/images/wedding-2.jpeg" class="w-full" alt="">
+        <img src="@/assets/images/wedding-2.jpg" class="w-full" alt="">
       </div>
     </section>
   </section>
   <section class="w-full bg-cover h-screen">
     <section class="container-section h-screen grid content-end">
       <div>
-        <img src="@/assets/images/wedding-3.jpeg" class="w-full" alt="">
+        <img src="@/assets/images/wedding-3.jpg" class="w-full" alt="">
       </div>
     </section>
   </section>
   <section class="w-full bg-cover h-screen">
     <section class="container-section h-screen grid content-end">
       <div>
-        <img src="@/assets/images/wedding-4.jpeg" class="w-full" alt="">
+        <img src="@/assets/images/wedding-4.jpg" class="w-full" alt="">
+      </div>
+    </section>
+  </section>
+  <section class="w-full bg-cover h-screen">
+    <section class="container-section h-screen grid content-end">
+      <div>
+        <img src="@/assets/images/wedding-5.jpg" class="w-full" alt="">
+      </div>
+    </section>
+  </section>
+  <section class="w-full bg-cover h-screen">
+    <section class="container-section h-screen grid content-end">
+      <div>
+        <img src="@/assets/images/wedding-6.jpg" class="w-full" alt="">
       </div>
     </section>
   </section>
