@@ -17,7 +17,7 @@ const props = defineProps({
   }, 
   subtitle: {
     type: String,
-    default: 'QS : AR RUM : 21'
+    default: ''
   },
   textColor: {
     type: String,
