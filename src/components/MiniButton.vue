@@ -20,6 +20,9 @@
     <button @click="giftAction" class="button">
       <i class="fa-solid fa-gift"></i>
     </button>
+    <button class="button" @click="TopAction">
+      <i class="fa-solid fa-arrow-up"></i>
+    </button>
   </section>
 </template>
 
@@ -45,6 +48,7 @@ const control = () => {
 
 watch(isAudioPlay, control)
 
+const TopAction = () => setTimeout(() => { document.querySelector('#mainCover2').scrollIntoView({ behavior: 'smooth' }) }, 300)
 const giftAction = () => setTimeout(() => { document.querySelector('#envelope').scrollIntoView({ behavior: 'smooth' }) }, 300)
 
 </script>

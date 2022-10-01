@@ -88,7 +88,7 @@ const statusResponse = ref(false)
 const showAlert = ref(false)
 
 //URL
-const scriptURL = "https://script.google.com/macros/s/AKfycbzPgWJ7760OwwRlvjhrBMSM9HTVJL2wjDnDB3Up9ZOEIm09LMBwpmSpkQ6eGjAPGPCH/exec"
+const scriptURL = "https://script.google.com/macros/s/10mviBS_qigdMEw6BJT3vooPSdLkNUrYM2mcdo7JVYNjTFFRH3CkwJnX/exec"
 const sendMessage = ( evt ) => {
   evt.preventDefault()
   

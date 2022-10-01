@@ -1,4 +1,5 @@
 <template>
+  <div>
   <section class="w-full bg-cover h-screen">
     <section class="container-section h-screen grid content-end">
       <div>
@@ -41,6 +42,7 @@
       </div>
     </section>
   </section>
+  </div>
 </template>
 
 <script setup>
