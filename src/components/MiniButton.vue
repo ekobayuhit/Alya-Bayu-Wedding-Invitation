@@ -41,7 +41,8 @@ const audioClick = () => isPlayed.value = !isPlayed.value
 const audioAction = () => isPlayed.value ? audioEl.value.play() : audioEl.value.pause()
 
 const control = () => {
-  audioClick()
+  //audioClick()
+  isPlayed.value = true
   audioAction()
 }
 
