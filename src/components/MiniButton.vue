@@ -9,7 +9,7 @@
 </style>>
 
 <template>
-  <audio ref="audioEl" autoplay>
+  <audio ref="audioEl" autoplay="true" loop>
     <source src="@/assets/audio/ICantSeemToLetYouGo.mp3" type="audio/mp3">
   </audio>
   <section class="fixed bottom-24 pl-2">
@@ -31,7 +31,7 @@ import { useState } from '@/stores/state.js'
 const state = useState()
 
 const audioEl = ref(null)
-const isPlayed = ref(false)
+const isPlayed = ref(true)
 
 const isAudioPlay = computed(() => state.isAudioPlay)
 
