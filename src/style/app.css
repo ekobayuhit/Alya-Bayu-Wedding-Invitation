@@ -36,3 +36,14 @@ button {
 .container-section {
 	@apply w-full mx-auto md:w-8/12 lg:w-6/12;
 }
+
+/* font */
+@font-face {
+	font-family: "Aniyah";
+	src: local("Aniyah"), url('@/fonts/Aniyah.otf') format("opentype");
+}
+
+.Aniyah-font {
+	font-family: "Aniyah";
+	font-size: large;
+}
