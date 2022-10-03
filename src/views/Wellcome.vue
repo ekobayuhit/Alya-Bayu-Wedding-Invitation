@@ -31,20 +31,26 @@
 <template>
   <section :class="isOpenInvitation ? 'close-page' : ''" class="w-full h-screen bg-slate-100 min-h-screen fixed inset-0 grid place-items-center z-50 bg-texture bg-cover">
     <!-- Frames -->
+    <!--
     <img class="frame top-0 left-0 animate__animated animate__fadeInLeft" src="@/assets/images/frame-mirror.png" alt="frame">
     <img class="frame top-0 right-0 animate__animated animate__fadeInRight" src="@/assets/images/frame.png" alt="frame">
     <img class="frame bottom-0 right-0 rotate-180" src="@/assets/images/frame-mirror.png" alt="frame">
     <img class="frame bottom-0 left-0 rotate-180" src="@/assets/images/frame.png" alt="frame">
+    -->
     <!-- Frames -->
     <!-- Wedding couple -->
     <div class="w-6/12 text-center text-xs md:text-lg lg:text-xl">
       <!-- Decoration -->
+      <!--
       <img src="@/assets/images/decoration-asset-1.png" class="animate__animated animate__swing w-10/12 md:w-8/12 mx-auto">
-      
+      -->
+
       <div class="mt-5 animate__animated animate__zoomInUp">
+        <!--
         <p>{{ weddingDate }}</p>
         <h1 class="satisfy-font text-5xl lg:text-6xl my-4 text-green-600">{{ couples.join(' & ') }}</h1>
         <p>Semoga menjadi pasangan yang dipertemukan oleh takdir hingga maut yang memisahkan</p>
+        -->
        <!-- CTA -->
         <button 
           type="buton" 
