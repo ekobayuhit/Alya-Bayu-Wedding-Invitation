@@ -47,3 +47,23 @@ button {
 	font-family: "Aniyah";
 	font-size: large;
 }
+
+@font-face {
+	font-family: "TAN-PEARL";
+	src: local("TAN-PEARL"), url('@/fonts/TAN-PEARL.otf') format("opentype");
+}
+
+.TAN-PEARL-font {
+	font-family: "TAN-PEARL";
+	font-size: large;
+}
+
+@font-face {
+	font-family: "AnticDidone";
+	src: local("AnticDidone"), url('@/fonts/AnticDidone-Regular.ttf') format("truetype");
+}
+
+.AnticDidone-font {
+	font-family: "AnticDidone";
+	font-size: large;
+}
