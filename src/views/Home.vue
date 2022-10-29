@@ -5,7 +5,7 @@
     <GoToOurWedding id="goto-our-Wedding"></GoToOurWedding>
     <Information id="information"></Information>
     <Envelope id="envelope"></Envelope>
-    <GuestBook id="guest-book"></GuestBook>
+    <!--<GuestBook id="guest-book"></GuestBook>-->
   </section>
 </template>
 
@@ -16,7 +16,7 @@ import OurGallery from '@/components/OurGallery.vue'
 import GoToOurWedding from '@/components/GoToOurWedding.vue'
 import Information from '@/components/Information.vue'
 import Envelope from '@/components/Envelope.vue'
-import GuestBook from '@/components/GuestBook.vue'
+//import GuestBook from '@/components/GuestBook.vue'
 
 // Navigation handler
 const navigationHandler = id => {
