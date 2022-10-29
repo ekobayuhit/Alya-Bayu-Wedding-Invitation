@@ -44,7 +44,7 @@
       <button 
         type="buton" 
         @click="openInvitation"
-        class="w-10/12 md:w-8/12 text-sm md-text-lg mt-12 font-medium z-50 border border-blue-500 text-gray-100 bg-blue-500 bg-dark p-2 rounded-full pointer active:scale-90 hover:bg-emerald-500 hover:border-emerald-500 hover:text-gray-100 duration-300">
+        class="border border-blue-500 text-gray-100 bg-blue-500 bg-dark p-2 rounded-full pointer active:scale-90 hover:bg-emerald-500 hover:border-emerald-500 hover:text-gray-100 duration-300">
         <i class="fa-solid fa-book-open mr-1"></i>
         Buka undangan
       </button>
